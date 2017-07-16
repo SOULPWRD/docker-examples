@@ -1,2 +1,5 @@
 yarn/node_modules
 yarn/npm-debug.log
+
+web-server/node_modules
+web-server/npm-debug.log
